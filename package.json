@@ -1,0 +1,16 @@
+{
+  "name": "back-end",
+  "version": "1.0.0",
+  "description": "learning the node js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sri vatsa c s",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mongodb": "^6.10.0",
+    "nodemon": "^3.1.7"
+  }
+}
